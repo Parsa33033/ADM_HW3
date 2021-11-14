@@ -3,6 +3,7 @@
 ## ADM - Homework 3 - Group #20
 
 Components of the group: Edoardo Di Martino, Davide Mascolo, Parsa Heidary Moghadam
+
 Content of the repository:
 
 - homework3.ipynb : the main notebook with all the outputs
